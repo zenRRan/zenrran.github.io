@@ -1,4 +1,4 @@
-# zenRRan (甄冉冉)
+# zenRRan
 ##### 312nlp@Heilongjiang University
 ##### mail: 824203828@qq.com
 <br><br>
