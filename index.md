@@ -1,5 +1,5 @@
 # zenRRan
-##### 312nlp@Heilongjiang University
+##### 312nlp@Heilongjiang University, China
 ##### mail: 824203828@qq.com
 <br><br>
 ##  2017
